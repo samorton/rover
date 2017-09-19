@@ -7,5 +7,5 @@ ino build
 echo uploading
 ino upload
 echo monitoring...
-monitor.sh
+~/code/rover/uno/monitor.sh
 EOF
